@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java and Kotlin language
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on flutter app development
-- 📫 How to reach me ...
+- 📫 How to reach me riztech.dev@gmail.com
 
 <!---
 rizwan-dev/rizwan-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
