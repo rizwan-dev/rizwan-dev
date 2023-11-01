@@ -21,8 +21,8 @@ Explore my repositories to see some of the projects I've worked on. Don't hesita
 
 Thanks for stopping by, and I look forward to connecting with you!
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rizwanulhaque.rizwanulhaque)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rizwan-dev)
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?style=for-the-badge&logo=github)](https://github.com/rizwanulhaque)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?style=for-the-badge&logo=github)](https://github.com/rizwan-dev)
