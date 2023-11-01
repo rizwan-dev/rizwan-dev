@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rizwan-dev
 - 👀 I’m interested in Kotlin, Java and Dart language
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning KMM
 - 💞️ I’m looking to collaborate on KMM projects
 - 📫 How to reach me riztech.dev@gmail.com
 
