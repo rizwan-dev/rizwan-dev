@@ -1,26 +1,38 @@
-# Hello, I'm Rizwanul Haque 👋
+# Rizwanul Haque
 
-## About Me
+Full-stack engineer and engineering leader. 13+ years building production systems end to end — the app, the services behind it, and the pipeline that ships both.
 
-I'm a passionate Mobile Application Developer with a deep love for creating innovative and user-friendly mobile apps. With a decade of experience in the field, I've honed my skills in building high-quality Android applications that not only meet user needs but also exceed their expectations.
+Most teams lose time at the seam between the app and the server. I've worked both sides for over a decade, so I can design the API and the screen together instead of negotiating across a handover.
 
-## What I Do
+## What I work with
 
-- **Platform Expertise:** I specialize in Android app development, and I'm well-versed in the latest technologies and tools, including Kotlin, Flow, Coroutines, Room, Jetpack Compose, Retrofit, and Hilt.
-- **Architecture Enthusiast:** I believe in the power of clean architecture and following SOLID principles to create robust, maintainable, and scalable applications.
-- **API Integration:** Consuming web services and seamlessly integrating them into mobile apps is one of my fortes.
-- **Passion-Driven:** My work is driven by my passion for mobile app development. I'm constantly exploring new ideas and pushing the boundaries of what's possible in the mobile space.
+**Mobile** — Kotlin, Jetpack Compose, Kotlin Multiplatform, Swift. Native Android and iOS apps used by millions, including lead roles on banking and consumer products.
 
-## Let's Connect
+**Backend** — Java/Spring Boot, C#/.NET, Node.js, Python/Django. REST APIs, authentication, payments and integrations, relational data modelling, performance work.
 
-I'm always open to collaboration, discussions, and sharing knowledge. Feel free to reach out if you want to work together, have questions, or just want to chat about mobile app development.
+**Frontend** — React, TypeScript, Ember. Responsive UI, state management, accessibility.
 
-## Check Out My Projects
+**Platform** — AWS, Kubernetes, Docker, CI/CD. I own the deploy path, not just the code that goes through it.
 
-Explore my repositories to see some of the projects I've worked on. Don't hesitate to star, fork, or contribute – I'd appreciate your support and insights.
+## Leading teams
 
-Thanks for stopping by, and I look forward to connecting with you!
+I led the MMR squad at Barclays US — a cross-functional team of Android, iOS, backend, frontend and QA engineers — and have spent years in engineering management alongside hands-on delivery. The work I care most about is removing single points of knowledge: a team where only one person can touch a system is a team with a bus factor of one.
 
----
+## Teaching
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?style=for-the-badge&logo=github)](https://github.com/rizwan-dev)
+I write and maintain [RizTech Academy](https://riztechacademy.com), a set of free, practical engineering courses. Each one ships with a reference implementation you can read, run and break:
+
+| Repository | What it demonstrates |
+| --- | --- |
+| [dakiya](https://github.com/RizTech-Academy/dakiya) | Spring Boot 3.4 REST API — JPA, Spring Security, concurrency-safe state with optimistic locking, full test pyramid |
+| [cinema-booking](https://github.com/RizTech-Academy/cinema-booking) | PostgreSQL + Redis — double-booking made impossible under a real concurrent race, TTL holds, atomic Lua rate limiter |
+| [nidaan](https://github.com/RizTech-Academy/nidaan) | Django 5.1 + DRF — patient-scoped API, constraints enforced in the database, test suite |
+| [agentpay](https://github.com/RizTech-Academy/agentpay) | Fastify API + React dashboard — Vitest API tests, Playwright end-to-end tests |
+| [weather-client](https://github.com/RizTech-Academy/weather-client) | TypeScript — untrusted JSON validated at the boundary, every failure modelled as a typed Result |
+
+More courses, including Kotlin, Java, Python, JavaScript and full-stack web, at [RizTech-Academy](https://github.com/RizTech-Academy).
+
+## Elsewhere
+
+- Courses and writing — [riztechacademy.com](https://riztechacademy.com)
+- LinkedIn — [rizwanulhaque1](https://www.linkedin.com/in/rizwanulhaque1/)
