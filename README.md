@@ -18,6 +18,18 @@ Most teams lose time at the seam between the app and the server. I've worked bot
 
 I led the MMR squad at Barclays US — a cross-functional team of Android, iOS, backend, frontend and QA engineers — and have spent years in engineering management alongside hands-on delivery. The work I care most about is removing single points of knowledge: a team where only one person can touch a system is a team with a bus factor of one.
 
+## Selected work
+
+Reference implementations, each built around one hard problem rather than a
+feature list. All run, all have CI, and each README explains the decisions and
+the bugs that only appeared once it was running.
+
+| Repository | The hard part |
+| --- | --- |
+| [stockroom](https://github.com/rizwan-dev/stockroom) | Spring Boot 3.5 + Next.js 16 — concurrent orders for the last unit resolve to exactly one sale, proved by a 20-thread test against real PostgreSQL |
+| [pulse](https://github.com/rizwan-dev/pulse) | Ktor WebSockets + Next.js — a dropped client resumes from a sequence cursor; one slow consumer cannot stall the broadcast |
+| [pulse-mobile](https://github.com/rizwan-dev/pulse-mobile) | Kotlin Multiplatform + Compose Multiplatform — Android and iOS sharing the client protocol and the UI, tests running on both the JVM and native iOS |
+
 ## Teaching
 
 I write and maintain [RizTech Academy](https://riztechacademy.com), a set of free, practical engineering courses. Each one ships with a reference implementation you can read, run and break:
